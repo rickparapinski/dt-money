@@ -1,4 +1,4 @@
-# DR Money
+# DT Money
 
 > Expense tracker app developed using React and TypeScript.
 
